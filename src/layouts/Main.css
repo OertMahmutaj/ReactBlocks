@@ -1,0 +1,11 @@
+.main {
+    height: 400px;
+    width: auto;
+    background-color: #e06666;
+    padding: 10px;
+    margin: 0px 10px 10px 10px;
+    display: inline-block;
+    justify-self: center;
+    vertical-align: top;
+    margin: 10px;
+}
